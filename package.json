@@ -1,0 +1,16 @@
+{
+  "name": "ol-sprint",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Free Sri Lankan English-medium O/L study companion",
+  "scripts": {
+    "build": "echo 'Static app; no bundling required'"
+  },
+  "dependencies": {
+    "@capacitor/android": "^7.4.3",
+    "@capacitor/core": "^7.4.3"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.4.3"
+  }
+}

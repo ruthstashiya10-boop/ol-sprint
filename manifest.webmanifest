@@ -1,0 +1,12 @@
+{
+  "name": "O/L Sprint \u2014 Sri Lankan O/L Study Companion",
+  "short_name": "O/L Sprint",
+  "description": "A free study companion for Sri Lankan English-medium GCE O/L students.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#090f1b",
+  "theme_color": "#090f1b",
+  "orientation": "portrait",
+  "icons": []
+}
